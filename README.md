@@ -1,4 +1,4 @@
-# Fimple-React-Practium - First Case
+# Fimple-React-Practicum - First Case
 
 Tic Tac Toe
 
