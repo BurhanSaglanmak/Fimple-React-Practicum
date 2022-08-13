@@ -4,6 +4,7 @@ Tic Tac Toe
 
 # Live
 
+https://fimple-react-practicum-tic-tac-toe.netlify.app/
 
 # ScreenShot
 
