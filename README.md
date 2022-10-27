@@ -1,10 +1,7 @@
-# Fimple-React-Practicum - First Case
+# Fimple-React-Practicum - First Case [(LIVE)](https://fimple-react-practicum-tic-tac-toe.netlify.app/)
 
 Tic Tac Toe
 
-# Live
-
-https://fimple-react-practicum-tic-tac-toe.netlify.app/
 
 # ScreenShot
 
